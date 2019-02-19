@@ -1,0 +1,7 @@
+numpy
+pandas
+sklearn
+bayesian-optimization
+hyperopt
+rpy2
+matplotlib
